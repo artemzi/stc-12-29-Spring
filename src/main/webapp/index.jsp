@@ -12,6 +12,9 @@
 </head>
 <body>
 <a href="/studentList">StudentList</a><br>
-<a href="addStudent">Add student</a>
+<a href="/addstudent">Add student</a><br>
+<a href="/userpage">User page</a><br>
+<a href="/adminpage">Admin page</a><br>
+<a href="/logoutpage">Logout page</a><br>
 </body>
 </html>
