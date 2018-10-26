@@ -11,6 +11,7 @@
     <title>$Title$</title>
 </head>
 <body>
+<a href="/register">Register</a><br>
 <a href="/studentList">StudentList</a><br>
 <a href="/addstudent">Add student</a><br>
 <a href="/userpage">User page</a><br>
